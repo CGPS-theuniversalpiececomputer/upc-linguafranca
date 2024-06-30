@@ -1,0 +1,11 @@
+main:
+  - name: THE UNIVERSAL PIECE COMPUTER
+    url: 'https://the.up.computer'
+    weight: 1
+  - name: LINGUA FRANCA
+    url: 'https://linguafranca.up.computer'
+    weight: 2
+  - name: CORE PEACE BIAS
+    url: 'https://corepeacebias.up.computer'
+    weight: 3
+
