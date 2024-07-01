@@ -4,6 +4,11 @@ draft: false
 avatar: images/THIicon.png
 bio: This page contains a list of key terms that serve the invention program as a _lingua franca_. Per AI, a lingua franca serves as a common language that enables communication and understanding between people who speak different native languages. It facilitates trade, diplomacy, and cultural exchange by providing a shared means of communication. In this context, we treat each individual's world as maintaining its own unique language, even in the cases where two individual world inhabitants speak the same natural language. By revolving our language use around the key concepts and terms underpinning The Human Imperative, we one, make our interworld communication more consistent, and we two, condition ourselves to speak in explicit terms of computational peace. This latter use of language is a deliberate application of the strong and/or weak form of the Sapir-Whorf Hypothesis, which is that the language we use determines the way we think and behave. Thus, if we wish to become more peaceful as individuals, then perhaps it would suit us to think strictly in terms of a lingua franca that prioritizes computational peace.
 
+social:
+  - icon: github
+    iconPack: fab
+    url: https://github.com/CGPS-theuniversalpiececomputer/linguafranca-up-computer
+
 weight: 1
 widget:
   handler: about
